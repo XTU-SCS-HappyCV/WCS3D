@@ -1,10 +1,10 @@
+[English Document](./README.md)
+
 [![License: CC BY-NC 4.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 # 大型水利领域户外点云数据集
 
-![image-20230930152815539](README.assets/image-20230930152815539.png)
-
-[English](./README.md)
+![概览](assets/overview.png)
 
 ## 简介
 
@@ -39,7 +39,7 @@
 
 - 百度网盘链接: https://pan.baidu.com/s/1eI5K7dvPymsr_RWY6meIrA?pwd=iisk 提取码: iisk
 
-- Kaggle: https://www.kaggle.com/datasets/happycv/segment-hydraulic
+- Kaggle: <https://www.kaggle.com/datasets/happycv/segment-hydraulic>
 
 ## 使用协议
 

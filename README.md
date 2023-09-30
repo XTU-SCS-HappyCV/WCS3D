@@ -1,10 +1,10 @@
+[中文文档](./README-zh.md)
+
 [![License: CC BY-NC 4.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 # Water Conservancy Segment 3D
 
-![image-20230930152815539](README.assets/image-20230930152815539.png)
-
-[Chinese](./README-zh.md)
+![Overview](assets/overview.png)
 
 ## Introduction
 
@@ -32,13 +32,13 @@ The main characteristics of this dataset are as follows:
 2.  Large coverage and data volume. As shown in Table 2.2, the collected 3D point cloud data covers multiple typical water conservancy facility scenes including the Greater Bay Area dike-Foshan, Gaozhou Reservoir, Dateng Gorge and other basins. It has a wide geographical scope and good representativeness. The large sample volume data is conducive to developing more robust algorithm models.The 3D point cloud data is divided into 3 Works according to different geographical locations. Among them, Work_1 is the key construction area of Dateng Gorge Hydropower Hub with 104,654,477 points. Work_2 is Donggankeng-Zhuji Gao with 131,112,786 points. Work_3 is Foshan Greater Bay Area Dike with 28,895,223 points.
 3. Real-scene data with high-quality annotations. This data comes from the aerial photography of actual water conservancy facilities and has the characteristics of real scenes, which can be directly used for testing and verification of relevant algorithms and products. At the same time, the dataset has been manually checked for annotation to ensure the accuracy and consistency of the annotations. This lays a solid foundation for subsequent algorithm research based on this dataset.
 
-Most of the currently publicly available 3D point cloud datasets focus on indoor scenes or urban street scenes, with relatively little data on water conservancy facility scenes. This dataset helps fill this gap and provides basic data support for the automation analysis and management of water conservancy facilities. With large data volume, wide coverage, refined annotation, and reliable authenticity, this dataset can provide powerful data support for the digital management of water conservancy facilities. It is a more abundant and valuable public 3D point cloud dataset for water conservancy 
+Most of the currently publicly available 3D point cloud datasets focus on indoor scenes or urban street scenes, with relatively little data on water conservancy facility scenes. This dataset helps fill this gap and provides basic data support for the automation analysis and management of water conservancy facilities. With large data volume, wide coverage, refined annotation, and reliable authenticity, this dataset can provide powerful data support for the digital management of water conservancy facilities. It is a more abundant and valuable public 3D point cloud dataset for water conservancy
 
 ## Download
 
-- Baidu Pan: https://pan.baidu.com/s/1eI5K7dvPymsr_RWY6meIrA?pwd=iisk Extraction code: iisk
+- Baidu Pan: <https://pan.baidu.com/s/1eI5K7dvPymsr_RWY6meIrA?pwd=iisk> Extraction code: iisk
 
-- Kaggle: https://www.kaggle.com/datasets/happycv/segment-hydraulic
+- Kaggle: <https://www.kaggle.com/datasets/happycv/segment-hydraulic>
 
 ## Extraction code: iisk
 
